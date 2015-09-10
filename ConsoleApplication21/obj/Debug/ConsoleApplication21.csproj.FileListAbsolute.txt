@@ -1,0 +1,6 @@
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe.config
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.exe
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\bin\Debug\ConsoleApplication21.pdb
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.csprojResolveAssemblyReference.cache
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.exe
+c:\users\оля\documents\visual studio 2013\Projects\ConsoleApplication21\ConsoleApplication21\obj\Debug\ConsoleApplication21.pdb
