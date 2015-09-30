@@ -1,0 +1,6 @@
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\bin\Debug\Get.exe.config
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\bin\Debug\Get.exe
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\bin\Debug\Get.pdb
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\obj\Debug\Get.exe
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\obj\Debug\Get.pdb
+C:\Users\Оля\Documents\Visual Studio 2012\Projects\Get\obj\Debug\Get.csprojResolveAssemblyReference.cache
